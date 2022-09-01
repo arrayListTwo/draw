@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T08:35:06.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="18.0.2" etag="dGxLI-BxWxWjnRcFeild" type="github"><diagram id="XqYnw1Og1vZd7FlZ2dqc">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-01T10:48:45.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Md4E3c9G-eNcUQC4eA4x" version="18.0.2" type="github">
+  <diagram id="XqYnw1Og1vZd7FlZ2dqc" name="Page-1">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;闭&amp;nbsp; 包&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="10" y="380" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-4" value="作用域&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（ 决定了代码区块中变量、函数、对象和其他资源的可见性 ）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;sketch=1;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-5" value="作用域链" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;sketch=1;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-6" value="执行上下文和调用栈" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;sketch=1;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-7" value="内存管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;sketch=1;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="580" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-8" value="闭包&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;sketch=1;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillStyle=solid;fontSize=15;fontColor=#FFFFFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="30" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-13" value="全局作用域" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;sketch=1;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-14" value="函数作用域" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;sketch=1;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="400" y="283" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-15" value="块级作用域" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;sketch=1;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillStyle=solid;fontSize=12;fontColor=#FFFFFF;fillColor=#A5674A;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-17" value="let、const 关键字声明；&lt;br&gt;函数起始 至 变量声明行，为 &quot;暂时性死区&quot;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#647687;sketch=1;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="550" y="330" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
