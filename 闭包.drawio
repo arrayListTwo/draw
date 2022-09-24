@@ -1,1 +1,73 @@
-<mxfile host="Electron" modified="2022-09-03T12:59:42.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/20.2.8 Chrome/102.0.5005.167 Electron/19.0.15 Safari/537.36" etag="Z4QID-xBsqYuwOM7b2sf" version="20.2.8" type="device"><diagram id="XqYnw1Og1vZd7FlZ2dqc" name="Page-1">7Vpdb+o4EP01fqyUxLHjPDok9L6sdKXu6kr7FiCFqIGwIRS6v349EzskxPTSFbntrqj6YMbfPufM2AOETtbHxyrdrn4rF1lBPGdxJDQmnuf6nkfg31m8NRbB/cawrPKFbnQyPOV/Z9roaOs+X2S7XsO6LIs63/aN83KzyeZ1z5ZWVXnoN3sui/6s23SZDQxP87QYWn/ki3qld+EFJ/u3LF+uzMwuD5uaWTp/WVblfqPnIx4N5SSIpk31OjVj6Y3uVumiPHRMNCF0UpVl3ZTWx0lWwNmaY2v6TS/Utuuusk19TYc/v9fOm/OQzIo/Xn6sZo+H3+PogTajvKbFPjPb4IUaL5qpwhIKxvBcqnnUNuo3fXT8r31pKh52CKxUDVy2PTbddD2CV5RVr5M6rWf865r0hElIwoBIaJ2ut8qyme22zUAkYURMiGDtMqvzdXYsSUDCiEQCezESUbRMiWQkEUROieCXx1En2Wx5YO4cjdc7Ee+wyuvsaZvO4fNBCUY1WtXrQn1yVXFXV+VLSzMPzi4vih+GXj60TuerfZU9QtdYnAxys8RJfKZ7Tdojpe4sdTMz2pNeza4sAPkIGZot9AqGpNE8es2qOjt2TJpEj1m5zurqTTU59oWr9U6F/nw4qSfQplVXOEwbUy3YZTvyibSqoHn7AQ77Qw4nPoliEk4Qb59IZIACXv1fxPtqfnsDfhu6TUmkuCkMTzkyjhGZkFDimiQYoRARiWSUDhGuJrWqhVXGQH5oI0ACUKXWLUAUIoByQoloewWwz4STULHb6VUpdkch0DxyiURL6MEsWgpmGSHHNsrowzhqDaGDpybRgrOroUAuAY7MYQpVhj02+w0vKuZLqCN1mOctLqgD1qtjksv0505f7aLM2jo1PHanjjOKvry+wFo1dQTWBpWuwoKxBMY+JDDw3pREyR3+m8Dv+0P4XRv8o/lXboGfg+yVFwC/4KJbQYclpClE6JU4eKiT6xHgpATtkIajBxR3rtyEK8yxcMUWjEfjSmDhCkZCFXMgKMUYygIIiRCUAog2gt/hvw38gn2yqxAW+M1lvnNzP7vV38G/AficfXaccN0h+ufYqkfwForzfVW8RZV6QmdwVfwJ5P8Ckin+KfuyShd5dqrblJtsDDzE2a0tHMJBLWhQOhoclrd9c/lvbmvqXaDW/N5L6UvoMuDcEekVJPA+okufejELxuCB75wRwbtSl/5oRLA9kIdvxzsRRiaCoJ9NBNtDrs04BPD4l8GdCGMTgV77ohuPCJYn3a+J1BZI2kh9BrNkPPDlL4zgLS5GsBacmAWmFrvb4zR8ThUKBZPmm5ebXW2SjU16O0TJJuathY9vSdG/c3h6iURn7UJrvnwYFTA3GDXjBPCs99AIzaiZ+iw/OZyxTRI0CUOTLYggndrJo0IHSQSmF9TSIUdpso2QKIghX9mmSjvd2lEZ7ox1PJePFokDScz74wmF4RfxZdwPuAhu7cuo61Pmj6ERxs58GbX4stAbioSPppHhm/M1rW6sChUNJVJcepgWD7Ax198ihS5OITRj1URKMydWKvsURm5l0Cf9UEAcLc0GYjCec/3SMs/3hHpoJGm57TXCELAnGZkq38R/alnHe7Pj5uCQBOR+oytnH04xPI6OvO13Vmq+wmhO04H2AFEEOrcM2H67waGvmvd05WmSl/GFFYZQdXcct3AcnsVxUFt0He1bDTcc7RJU5Ntv/4MLEfPETy9EtnvraL7eIPQeZEWOh9GXndsHaJtVuVpRBocHP+OYqQP8frJF2zLf1Lh4FhEWK0u5r2HgSfsjFOc/jy3tB3JmyR0Hlsvux7FVH0+/csG6zk+JaPIP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-19T01:24:58.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="DDDsRpAQy10GXmvkX0BH" version="20.3.1" type="github">
+  <diagram id="XqYnw1Og1vZd7FlZ2dqc" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#9AC7BF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;闭&amp;nbsp; 包&lt;br&gt;&lt;br&gt;相关知识&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;fillStyle=solid;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="380" width="70" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-4" value="作用域&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;（ 决定了代码区块中变量、函数、对象和其他资源的可见性 ）&lt;/font&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="270" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-6" value="执行上下文和调用栈" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="540" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-7" value="内存管理" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-8" value="闭包&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#a0522d;fillStyle=solid;fontSize=15;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="810" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=15;fontColor=#FFFFFF;gradientColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="290" width="30" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-13" value="全局作用域" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-14" value="函数作用域" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="283" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-15" value="块级作用域" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=12;fontColor=#FFFFFF;fillColor=#A5674A;gradientColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="240" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-17" value="let、const 关键字声明；&lt;br&gt;函数起始 至 变量声明行，为 &quot;暂时性死区&quot;，引用会报错" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#647687;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#314354;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="330" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-18" value="var 关键字声明；&lt;br&gt;在预编译阶段，进行 &quot;变量提升&quot;；&lt;br&gt;声明式函数会被整体提升；&lt;br&gt;表达式函数会提升变量，函数体赋值给变量的操作不会提前" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#647687;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#314354;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;flipH=1;fillStyle=solid;fontSize=12;fontColor=#FFFFFF;fillColor=#A5674A;gradientColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="528" y="240" width="42" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZPt0y0-EblUkWhbGwTDB-22" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fillStyle=solid;fontSize=12;fontColor=#FFFFFF;fillColor=#A5674A;gradientColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="523" y="355" width="37" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="9hNWtZpR8HiQRO1Fr6E--4" value="执行上下文" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9hNWtZpR8HiQRO1Fr6E--5" value="调用栈" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#76608a;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#432D57;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9hNWtZpR8HiQRO1Fr6E--6" value="变量对象" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#647687;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#314354;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="568" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9hNWtZpR8HiQRO1Fr6E--7" value="作用域链&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%8F%98%E9%87%8F%E5%AF%B9%E8%B1%A1%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeWidth%3D2%3BfillWeight%3D4%3BhachureGap%3D8%3BhachureAngle%3D45%3BfillColor%3D%23647687%3BfillStyle%3Dsolid%3BfontSize%3D12%3BfontColor%3D%23ffffff%3BstrokeColor%3D%23314354%3Brounded%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22570%22%20y%3D%22420%22%20width%3D%22110%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#647687;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#314354;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="567" y="475" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9hNWtZpR8HiQRO1Fr6E--8" value="this" style="whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#647687;fillStyle=solid;fontSize=12;fontColor=#ffffff;strokeColor=#314354;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="567" y="540" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9hNWtZpR8HiQRO1Fr6E--11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=12;fontColor=#FFFFFF;fillColor=#A5674A;gradientColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="519" y="434" width="40" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9hNWtZpR8HiQRO1Fr6E--13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=12;fontColor=#FFFFFF;fillColor=#A5674A;gradientColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="500" width="50" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
